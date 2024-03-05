@@ -1,2 +1,2 @@
 # numpy
-This Repo contains basics of numpy
+This Repo contains basics of python numpy library
